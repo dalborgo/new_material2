@@ -1,6 +1,7 @@
 import React from 'react'
 
 function App () {
+  //modifica
   const prova2 = {
     mio2: {
       fg: 12
